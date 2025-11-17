@@ -1,4 +1,4 @@
-# 🎓 BAU - AI Engineering Portfolio
+# 🎓 BAU - Computer Engineering Portfolio
 
 **Author:** Kaan Yalman <br>
 **University:** Bahçeşehir University (BAU)
