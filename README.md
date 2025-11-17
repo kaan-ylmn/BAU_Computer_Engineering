@@ -1,1 +1,11 @@
-# BAU-Computer_Engineering
+# 🎓 BAU - AI Engineering Portfolio
+
+**Author:** Kaan Yalman <br>
+**University:** Bahçeşehir University (BAU)
+
+### 📚 Academics
+* **Major:** 🧠 Artificial Intelligence Engineering
+* **Double Major:** 💻 Computer Engineering
+
+## 📌 About This Repository
+I created this repository to share my academic work. It focuses exclusively on the assignments and projects developed for my **Computer Engineering** curriculum.
